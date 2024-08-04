@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rasooc</string>
+    <string name="facebook_app_id">161923389026913</string>
+    <string name="fb_login_protocol_scheme">fb161923389026913</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="184" height="115.553" viewBox="0 0 184 115.553">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.992" y1="0.024" x2="-0.025" y2="1.008" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffd4"/>
+      <stop offset="0.214" stop-color="#00f4cb"/>
+      <stop offset="0.58" stop-color="#00d9b5"/>
+      <stop offset="1" stop-color="#01b396"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_368" data-name="Group 368" transform="translate(12105 691.553)">
+    <path id="Path_534" data-name="Path 534" d="M175.12,151.44a1.765,1.765,0,0,1,.657-2.563c6.5-3.391,10.655-9.266,10.655-17.774v-.174c0-5.972-1.819-10.659-5.369-14.122-4.074-4.162-10.493-6.583-19.762-6.583H134.378a1.765,1.765,0,0,0-1.765,1.765v57.124a1.765,1.765,0,0,0,1.765,1.765h13.285a1.764,1.764,0,0,0,1.764-1.765v-14.84a1.766,1.766,0,0,1,1.765-1.765h4.661a1.765,1.765,0,0,1,1.47.788l11.166,16.8a1.769,1.769,0,0,0,1.471.787h15.118a1.764,1.764,0,0,0,1.456-2.761Zm-5.143-13.718a5.45,5.45,0,0,1-5.451,5.451H150.2a5.451,5.451,0,0,1-5.451-5.451V126.947A5.451,5.451,0,0,1,150.2,121.5h14.326a5.45,5.45,0,0,1,5.451,5.451h0a1.766,1.766,0,0,1-1.765,1.765H153.682a1.765,1.765,0,0,0-1.765,1.765v3.714a1.765,1.765,0,0,0,1.765,1.765h14.529a1.766,1.766,0,0,1,1.765,1.765Z" transform="translate(-12172.613 -801.778)" fill="url(#linear-gradient)"/>
+    <text id="Rasooc" transform="translate(-12105 -583)" fill="#27debf" font-size="40" font-family="Gotham-Book, Gotham"><tspan x="0" y="0">RASOOC</tspan></text>
+  </g>
+</svg>
